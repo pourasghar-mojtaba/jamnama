@@ -1,0 +1,209 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "product_plugin_detail"
+msgstr "پلاگین محصولات سایت"
+
+msgid "bahar_group"
+msgstr "گروه طراحی بهار"
+
+msgid "product_managment"
+msgstr "مدیریت محصول"
+
+msgid "product_list"
+msgstr "لیست محصول ها"
+
+msgid "add_product"
+msgstr "افزودن محصول"
+
+msgid "edit_product"
+msgstr "ویرایش محصول"
+
+msgid "delete_product"
+msgstr "حذف محصول"
+
+msgid "add_product"
+msgstr "افزودن محصول"
+
+msgid "product"
+msgstr "محصول"
+
+msgid "product"
+msgstr "متن محصول"
+
+msgid "the_product_has_been_saved"
+msgstr "محصول با موفقیت ذخیره شد"
+
+msgid "the_product_could_not_be_saved_Please_try_again"
+msgstr "محصول ذخیره نشد دوباره تلاش کنید"
+
+msgid "edit_product"
+msgstr "ویرایش محصول"
+
+msgid "invalid_product"
+msgstr "محصول مورد نظر موجود نمی باشد"
+
+msgid "the_product_has_been_deleted"
+msgstr "محصول با موفقیت پاک شد"
+
+msgid "the_product_could_not_be_deleted_please_try_again"
+msgstr "محصول حذف نشد لطفا دوباره تلاش بفرمایید"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "detail"
+msgstr "جزییات"
+
+msgid "product_images"
+msgstr "تصاویر محصول"
+
+msgid "add_image"
+msgstr "افزودن تصویر"
+
+msgid "the_product_image_not_saved"
+msgstr "تصویر محصول ذخیره نشد"
+
+msgid "image_name"
+msgstr "نام تصویر"
+
+msgid "mini_detail"
+msgstr "توضیح مختصر"
+
+msgid "add_category"
+msgstr "افزودن دسته بندی"
+
+msgid "the_product_category_has_been_saved"
+msgstr "دسته بندی با موفقیت ذخیره شد"
+
+msgid "the_product_category_could_not_be_saved"
+msgstr "دسته بندی ذخیره نشد"
+
+msgid "edit_category"
+msgstr "ویرایش دسته بندی"
+
+msgid "invalid_id_for_product_category"
+msgstr "دسته بندی درخواست شده موجود نمی باشد"
+
+msgid "category_includes_product_can_not_be_deleted"
+msgstr "دسته بندی حاوی محصول می باشد قابل حذف نیست"
+
+msgid "delete_product_category_success"
+msgstr "دسته بندی با موفقیت حذف شد"
+
+msgid "delete_product_category_not_success"
+msgstr "دسته بندی حذف نشد"
+
+msgid "category_managment"
+msgstr "مدیرت دسته بندی"
+
+msgid "category_list"
+msgstr "لیست دسته بندی ها"
+
+msgid "add_category"
+msgstr "افزودن دسته بندی"
+
+msgid "slug"
+msgstr "عنوان انگلیسی"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "parent"
+msgstr "دسته بندی والد"
+
+msgid "with_out_parent"
+msgstr "بدون دسته بندی"
+
+msgid "edit_category"
+msgstr "ویرایش دسته بندی"
+
+msgid "category"
+msgstr "دسته بندی"
+
+msgid "image"
+msgstr "تصویر"
+
+msgid "products"
+msgstr "محصولات"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
